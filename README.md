@@ -4,11 +4,6 @@ A simple educational website that explains different types of bugs (beetles, spi
 
 ---
 
-## 📸 Preview  
-![Project Screenshot](screenshot.png)  
-
----
-
 ## 🚀 Features
 - 🪲 Information about different types of bugs  
 - 🖼️ Images and descriptions for each bug  
